@@ -1,0 +1,37 @@
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Kateegoriler.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Müşteriler.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.newMusteri.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.düzenleMüşteri.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.borcEkleMuşteri.resources
+c:\users\l455614\documents\visual studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.borçAzalt.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.AssemblyReference.cache
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.borcEkleMuşteri.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.borçAzalt.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.düzenleMüşteri.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Kateegoriler.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Müşteriler.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.newMusteri.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.cache
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.CoreCompileInputs.cache
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Ürünler.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.frmÜrünOluştur.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.frmÜrünAlış.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.frmsatış.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.frmürünSatışları.resources
+C:\Users\canm2\Desktop\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.frm1müşteriDEtay.resources
